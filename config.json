@@ -1,0 +1,23 @@
+{
+    "ownerNumber": ["6285271723416@s.whatsapp.net","6282287812223@s.whatsapp.net"],
+    "ownerName": "ᴹᴿ᭄ RYN Gamingོ ×፝֟͜×",
+    "instagram" : "https://instagram.com/rynaql",
+    "botName": "Ryan-Mdོ ",
+    "footer": "api.rynaql.xyz",
+    "sessionName": "RyanBotz-Session",
+    "pathimg": "./media/logo.jpg",
+    "BotKey": "Gsyt6jRJ",
+    "auto_welcomeMsg": true,
+    "auto_leaveMsg": true,    
+    "autobio": true,
+    "anticall": true,
+    "autorespond": false,
+    "autoblok212": true,
+    "autoread": true,
+    "gamewaktu": 90,
+    "limitCount": 25,
+    "gcount": {
+        "prem": 1000,
+        "user": 15
+    }
+}
